@@ -1,0 +1,16 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+
+  :root {
+    --colors-background: rgb(23, 23, 23);
+    --colors-yellow: gold;
+    --colors-orange: orange;
+    --colors-red: orangered;
+    --colors-textRed: crimson;
+
+  }
