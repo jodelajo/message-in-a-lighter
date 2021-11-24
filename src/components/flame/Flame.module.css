@@ -2,7 +2,6 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  /* justify-content: flex-end; */
   align-items: center;
   min-height: 400px;
  
@@ -54,8 +53,7 @@
 
 .orange {
   position: absolute;
-  /*margin-top: 360px;
-  */width: 110px;
+  width: 110px;
   height: 110px;
   bottom: 0;
   background: var(--colors-orange);
@@ -72,7 +70,6 @@
 
 .yellow {
   position: absolute;
-  /* margin-top: 410px; */
   width: 80px;
   height: 80px;
   bottom: 0;
@@ -92,8 +89,6 @@
   animation-timing-function: ease-in;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-  /*transform-origin: center bottom;
-  */
 }
 
 
